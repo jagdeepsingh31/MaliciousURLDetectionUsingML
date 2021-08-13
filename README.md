@@ -1,0 +1,2 @@
+# MaliciousURLDetectionUsingML
+The aim of this project is to use the machine learningtechnology to detect malicious web pages. The idea isto build a classification system for detecting maliciousweb pages which would overcome the limitations oftraditional approaches to malicious webpagedetection. The classification system would be a realtime URL classification system which would classifythe URLs as malicious or benign. I have worked onvisualization using Matplotlib, Seaborn.
